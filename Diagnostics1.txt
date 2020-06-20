@@ -1,0 +1,19 @@
+Process 1 Will start
+start of p1
+Process 1 Tried to aquire print sema Result: Granted! 
+BlockedPrintqueue: []
+BlockedPrintTakeInput: []
+BlockedPrintRead: []
+BlockedPrintwrite: []
+Process 1 Tried to aquire Read sema Result: Granted! 
+BlockedPrintqueue: []
+BlockedPrintTakeInput: []
+BlockedPrintRead: []
+BlockedPrintwrite: []
+Process 3 Will start
+start of p3
+Process 3 Tried to aquire print sema Result: Granted! 
+BlockedPrintqueue: []
+BlockedPrintTakeInput: []
+BlockedPrintRead: []
+BlockedPrintwrite: []
